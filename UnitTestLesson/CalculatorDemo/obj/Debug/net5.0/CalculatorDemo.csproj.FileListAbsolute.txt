@@ -1,0 +1,11 @@
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\bin\Debug\net5.0\CalculatorDemo.deps.json
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\bin\Debug\net5.0\CalculatorDemo.dll
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\bin\Debug\net5.0\ref\CalculatorDemo.dll
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\bin\Debug\net5.0\CalculatorDemo.pdb
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.AssemblyInfoInputs.cache
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.AssemblyInfo.cs
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.dll
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\obj\Debug\net5.0\ref\CalculatorDemo.dll
+C:\Users\4400112391\source\repos\UnitTestLesson\CalculatorDemo\obj\Debug\net5.0\CalculatorDemo.pdb

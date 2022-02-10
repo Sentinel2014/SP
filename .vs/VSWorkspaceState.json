@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CKK.Logic",
+    "\\CKK.Logic\\CKK.Logic"
   ],
+  "SelectedNode": "\\CKK.Logic\\CKK.Logic",
   "PreviewInSolutionExplorer": false
 }
